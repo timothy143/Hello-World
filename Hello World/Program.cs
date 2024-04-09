@@ -7,10 +7,6 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("I Love Pizza");
             Console.WriteLine("I Love Chicken");
-            Console.WriteLine("Many Messages");
-            Console.WriteLine("Many Messages");
-            Console.WriteLine("Many Messages");
-            Console.WriteLine("Many Messages");
         }
     }
 }
